@@ -1,0 +1,9 @@
+- Add a part about create customs policies and use it in a symfony controller.
+
+- Add an exercice about reverse relations between content.
+
+- Add an exercice about signal slot, sending an email when a new spot is created.
+
+- Add an exercice about creating content using the API in a script.
+
+- Add an exercise about site access, create site access with new languages.
